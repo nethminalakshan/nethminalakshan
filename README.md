@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&height=50&lines=Hi%2C+I'm+Nethmina+Lakshan;Embedded+Systems+%7C+Industrial+IoT;Raspberry+Pi+%2B+Modbus+%2B+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&height=50&lines=Hi%2C+I'm+Nethmina+Lakshan;Embedded+Systems+%7C+Industrial+IoT;Linux+%7C+Networking+%7C+SysAdmin" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nethminalakshan&color=00A8E8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmina-lakshan-692a52247)
@@ -20,6 +20,7 @@ My day-to-day work involves getting hardware, serial protocols, and databases to
 - 🍓 **Raspberry Pi automation** — migrating legacy Node-RED flows into standalone Python services
 - 📡 **Modbus RTU/TCP** — register-level debugging, block reads, word-swap float decoding
 - 🗄️ **Time-series data** — InfluxDB v2 pipelines from edge devices to dashboards
+- 🐧 **Linux & networking** — system administration, bash scripting, and building a deeper interest in network engineering
 
 ---
 
