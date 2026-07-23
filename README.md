@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nethmina+Lakshan+%F0%9F%91%8B;Embedded+Systems+%7C+Industrial+IoT+Engineer;Raspberry+Pi+%2B+Modbus+%2B+Python+Automation;Building+real+monitoring+systems%2C+not+demos." alt="Typing SVG" />
+# Hi, I'm Nethmina Lakshan 👋
 
-<br>
+### Embedded Systems | Industrial IoT | Raspberry Pi · Modbus · Python
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nethminalakshan&color=00A8E8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmina-lakshan-692a52247)
@@ -56,23 +56,15 @@ My day-to-day work involves getting hardware, serial protocols, and databases to
 <td width="50%" valign="top">
 
 **⚡ OTS Generator & Power Monitoring**
-Outdoor transmission station monitoring for power analyzers (MFM384) and diesel generator controllers (DSE7320), migrated from Node-RED to standalone Python on a Raspberry Pi.
-- Consolidated 66 individual Modbus nodes into efficient block reads
-- Diagnosed and fixed RS-485 bus contention, timing, and physical-layer (FTDI) failures
-- Built resilient InfluxDB v2 write pipelines with watchdog/status logic
-
-`Python` `Modbus RTU` `RS-485` `InfluxDB v2` `Raspberry Pi`
+Raspberry Pi monitoring for power analyzers & generator controllers over Modbus RTU/RS-485, writing to InfluxDB v2.
+`Python` `Modbus` `RS-485` `InfluxDB`
 
 </td>
 <td width="50%" valign="top">
 
 **🚨 Panel & Lift Alarm Monitoring**
-IoT-based monitoring for electrical panels and lift alarm systems, with Raspberry Pi as the edge controller and remote visibility via InfluxDB/Grafana.
-- Real-time multi-device alarm monitoring
-- Remote monitoring dashboards
-- Python automation for data acquisition
-
-`Python` `Raspberry Pi` `InfluxDB` `Grafana`
+IoT alarm monitoring for electrical panels and lifts, with a Raspberry Pi edge controller.
+`Python` `Raspberry Pi` `Grafana`
 
 </td>
 </tr>
@@ -80,17 +72,31 @@ IoT-based monitoring for electrical panels and lift alarm systems, with Raspberr
 <td width="50%" valign="top">
 
 **📡 Smart Wireless Mesh Sensor Network**
-Embedded wireless sensor network built on ATmega328P microcontrollers for distributed sensing.
-
-`Embedded C` `ATmega328P` `Wireless Sensor Nodes`
+Embedded wireless sensor network built on ATmega328P microcontrollers.
+`Embedded C` `ATmega328P`
 
 </td>
 <td width="50%" valign="top">
 
 **🌡️ Node-RED Dashboard Systems**
-Iteratively built Node-RED flows for live dashboards, from a temperature converter with gauge UI nodes to full industrial data pipelines.
+Node-RED flows for live dashboards, from gauge UIs to industrial data pipelines.
+`Node-RED` `JSON Flows`
 
-`Node-RED` `Dashboard UI` `JSON Flows`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔢 [4-bit Adder Circuit (Proteus)](https://github.com/nethminalakshan/4bit-adder-circuit-by-using-Proteus)**
+4-bit adder implementation with 7-segment display configuration.
+`Digital Logic` `Proteus`
+
+</td>
+<td width="50%" valign="top">
+
+**💬 [DevOps Chat Application](https://github.com/nethminalakshan/DevOps-Chat-Application)**
+Chat application built as a DevOps pipeline/tooling exercise.
+`JavaScript` `DevOps`
 
 </td>
 </tr>
@@ -108,10 +114,10 @@ Iteratively built Node-RED flows for live dashboards, from a temperature convert
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nethminalakshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethminalakshan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nethminalakshan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethminalakshan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com?user=nethminalakshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nethminalakshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
