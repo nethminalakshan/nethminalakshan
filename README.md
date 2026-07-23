@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nethmina Lakshan 👋
-
-### Embedded Systems | Industrial IoT | Raspberry Pi · Modbus · Python
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&height=50&lines=Hi%2C+I'm+Nethmina+Lakshan;Embedded+Systems+%7C+Industrial+IoT;Raspberry+Pi+%2B+Modbus+%2B+Python" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nethminalakshan&color=00A8E8&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmina-lakshan-692a52247)
@@ -117,7 +115,7 @@ Chat application built as a DevOps pipeline/tooling exercise.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nethminalakshan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethminalakshan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nethminalakshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nethminalakshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
