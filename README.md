@@ -112,8 +112,8 @@ Chat application built as a DevOps pipeline/tooling exercise.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nethminalakshan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethminalakshan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-nine-lake-36.vercel.app/api?username=nethminalakshan&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-nine-lake-36.vercel.app/api/top-langs/?username=nethminalakshan&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nethminalakshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
